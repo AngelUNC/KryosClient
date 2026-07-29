@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdGuard</string>
+    <string name="notification_title">DNS</string>
+    <string name="notification_text">Filtrando Macropay</string>
+    <string name="channel_name">DNS</string>
+    <string name="channel_description">Notificación</string>
+</resources>
